@@ -1,4 +1,3 @@
-# BOT-N
 <html lang="es">
 <head>
     <meta charset="UTF-8">
