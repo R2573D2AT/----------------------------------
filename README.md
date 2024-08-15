@@ -65,7 +65,7 @@
 <div class="container">
     <h1>Solicita Ahora</h1>
     <p>¡Obtén lo que necesitas con un solo clic!</p>
-    <a href="https://sotmoney.com/" class="button">Solicitar</a>
+    <a href="https://sotmoney.com/" class="button" target="_blank" rel="nofollow">Solicitar</a>
 </div>
 
 </body>
