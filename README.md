@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -43,8 +42,8 @@
             padding: 15px 45px;
             font-size: 22px;
             font-weight: bold;
-            color: #ffffff !important; /* Forzamos el color blanco para el texto del botón */
-            background: linear-gradient(135deg, #00c851, #007e33);
+            color: #ffffff !important; /* Color blanco para el texto del botón */
+            background: linear-gradient(135deg, #4a90e2, #007bff); /* Degradado azul para el botón */
             border: none;
             border-radius: 50px;
             cursor: pointer;
@@ -55,7 +54,7 @@
         }
 
         .button:hover {
-            background: linear-gradient(135deg, #007e33, #00c851);
+            background: linear-gradient(135deg, #007bff, #4a90e2); /* Efecto de hover con degradado invertido */
             transform: translateY(-7px);
             box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
         }
